@@ -4,9 +4,9 @@ This is a parser of pages in Sakha language from the online newspaper www.sakhap
 
 parser_parlamentonline.py - a parser
 
-01.12.2020 raw_data_parlamentsakha.zip - 2.51 Mb - updated 1st December, 2020
+raw_data_parlamentsakha.zip - 2.51 Mb - updated 1st December, 2020
 
-01.04.2021 raw_data_parlamentsakha.zip - 3.73 Mb - updated 1st April, 2021
+raw_data_parlamentsakha.zip - 3.73 Mb - updated 1st April, 2021
 
 use from colab:
 
